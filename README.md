@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @silverLIN1NG
+- 👋 Hi, I’m t.Rashid
 - 👀 I’m interested in FOSS
 - 🌱 I’m currently learning C++
 
