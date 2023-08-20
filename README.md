@@ -1,10 +1,7 @@
-- 👋 Hi, I’m t.Rashid
+- 👋 Hi, I’m Tausif Rashid
 - 👀 I’m interested in FOSS
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ , MERN
 
-- 📫 How to reach me - tr.cr.silverlining@gmail.com
+- 📫 How to reach me - tausif.rashid21@gmail.com
 
-<!---
-silverLIN1NG/silverLIN1NG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
