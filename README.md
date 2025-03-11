@@ -18,6 +18,6 @@ I am Tausif Rashid. I am currently pursuing my undergrad degree on Computer Scie
 
 ## Feel free to reach out
 
- - **mail**: tausif.rashid21@gmail.com
+ - **Email**: tausif.rashid21@gmail.com
  - **LinkedIn** : https://www.linkedin.com/in/tausif-rashid-897b9b247/
 
